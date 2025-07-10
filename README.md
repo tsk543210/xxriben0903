@@ -18,4 +18,4 @@
 
 技术方面，定期检查死链、重复内容、内容抓取异常问题，并通过站长工具提交sitemap与更新通知，可极大提升搜索引擎的抓取效率。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0903 ）</span>
